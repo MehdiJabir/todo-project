@@ -14,7 +14,7 @@ Description: Task description (optional).
 Location: Location for the task (optional).
 Due Date: Task due date in YYYY-MM-DD format (required).
 Due Time: Time the task is due in HH:MM format (optional).
-Completion Status: Indicates if the task is "completed" or "not completed".
+Completion Status: Indicates if the task is "completed" or "not completed" ("not completed" by default).
 Code Organization
 create()
 Generates a new task ID, then prompts the user to input task details. It uses read to capture user input for titles. The function ensures the input for required fields is not empty, and validates date and time formats using regular expressions.
