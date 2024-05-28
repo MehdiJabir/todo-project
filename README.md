@@ -74,7 +74,7 @@ echo: Displays help information.
 
 How to Run the Program
 Clone the repository:
-git clone <repository-url>
+git clone [https://github.com/MehdiJabir/todo-project.git](https://github.com/MehdiJabir/todo-project.git)
 Make the script executable:
 
 chmod +x todo.sh
