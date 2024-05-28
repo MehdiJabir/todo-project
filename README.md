@@ -73,6 +73,7 @@ Commands Used:
 echo: Displays help information.
 
 How to Run the Program
+
 Clone the repository:
 git clone [https://github.com/MehdiJabir/todo-project.git](https://github.com/MehdiJabir/todo-project.git)
 Make the script executable:
@@ -81,25 +82,25 @@ chmod +x todo.sh
 Execute various commands:
 
 Create a task:
-
 ./todo.sh create
+
 Delete a task:
-
 ./todo.sh delete
+
 Find a task by title:
-
 ./todo.sh find
+
 Show task details:
-
 ./todo.sh show
+
 List tasks:
-
 ./todo.sh list
+
 Update a task:
-
 ./todo.sh update
-Display help:
 
+Display help:
 ./todo.sh help
+
 Contributing
 We welcome contributions! Please fork the repository and submit pull requests with your improvements.
