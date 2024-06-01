@@ -8,7 +8,7 @@ Data Storage:
 Tasks:
 Tasks are stored in tasks.txt, where each task is represented as a single line with fields separated by the comma (,) character. The fields include:
 
-ID: Unique identifier for each task, generated automatically.
+ID: Unique identifier for each task, generated automatically by incrementing the id of the last task in the task file.
 Title: Title of the task (required).
 Description: Task description (optional).
 Location: Location for the task (optional).
